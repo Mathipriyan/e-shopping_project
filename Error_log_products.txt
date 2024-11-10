@@ -1,0 +1,100 @@
+2024-07-30 10:10:35: Error in add_cart: tabulate() got an unexpected keyword argument 'header'
+2024-07-30 10:21:43: Error in add_cart: map() must have at least two arguments.
+2024-07-30 10:22:23: Error in add_cart: map() must have at least two arguments.
+2024-07-30 16:14:17: Error in total_cost: name 'quan' is not defined
+2024-07-30 16:15:42: Error in total_cost: name 'quan' is not defined
+2024-07-30 16:19:57: Error in total_cost: Not all parameters were used in the SQL statement
+2024-07-31 12:50:35:Error in view_cart: 'Cart' object has no attribute 'quan'
+2024-07-31 12:54:23:Error in add cart: 'Cart' object has no attribute 'quan'
+2024-08-01 12:24:09:Error in like products: 1146 (42S02): Table 'product_management.like_products' doesn't exist
+2024-08-01 12:24:25:Error in like products: 1146 (42S02): Table 'product_management.like_products' doesn't exist
+2024-08-01 12:37:57:Error in add cart: name 'cat_id' is not defined
+2024-08-01 12:45:10:Error in add cart: Not enough parameters for the SQL statement
+2024-08-01 12:45:46:Error in add cart: not enough values to unpack (expected 2, got 1)
+2024-08-01 12:53:44:Error in like products: too many values to unpack (expected 2)
+2024-08-01 12:54:46:Error in like products: too many values to unpack (expected 2)
+2024-08-01 13:17:34:Error in products details : Not all parameters were used in the SQL statement
+2024-08-01 13:18:37:Error in products details : Not all parameters were used in the SQL statement
+2024-08-02 15:13:52:Error in view purchased products : 1146 (42S02): Table 'product_management.userdetails' doesn't exist
+2024-08-03 10:41:17:Error in rate products : 'checkout' object has no attribute 'review_prod'
+2024-08-03 10:47:09:Error in rate products : name 'timer' is not defined
+2024-08-03 11:06:27:Error in rate products : 'checkout' object has no attribute 'review_catogory'
+2024-08-03 11:09:10:Error in rate products : name 'user_rev' is not defined
+2024-08-03 11:10:24:Error in rate products : 'bool' object is not iterable
+2024-08-03 11:13:55:Error in rate products : name 'positive_word' is not defined
+2024-08-03 11:31:54:Error in view products : 1054 (42S22): Unknown column 'ID' in 'field list'
+2024-08-03 11:32:49:Error in view products : 1054 (42S22): Unknown column 'ID' in 'field list'
+2024-08-03 11:33:27:Error in view products : 1054 (42S22): Unknown column 'category_id' in 'where clause'
+2024-08-03 11:34:08:Error in view products : 1054 (42S22): Unknown column 'category_id' in 'where clause'
+2024-08-03 11:37:44:Error in view products : cannot access local variable 'result' where it is not associated with a value
+2024-08-03 11:38:42:Error in view products : 'int' object is not subscriptable
+2024-08-03 11:40:24:Error in view products : name 'result' is not defined
+2024-08-03 11:40:54:Error in view products : name 'result' is not defined
+2024-08-03 11:41:26:Error in view products : name 'result' is not defined
+2024-08-03 11:43:16:Error in view products : 1054 (42S22): Unknown column 'REVIEWS' in 'field list'
+2024-08-03 11:44:07:Error in view products : 'int' object is not iterable
+2024-08-03 15:12:20:Error in cancel order :  tuple index out of range
+2024-08-03 15:31:46:Error in cancel order :  tuple index out of range
+2024-08-03 15:32:59:Error in cancel order :  tuple index out of range
+2024-08-03 15:33:40:Error in cancel order :  tuple index out of range
+2024-08-03 15:35:57:Error in cancel order :  tuple index out of range
+2024-08-03 15:37:27:Error in cancel order :  tuple index out of range
+2024-08-03 15:41:27:Error in cancel order :  tuple index out of range
+2024-08-03 16:02:09:Error in main checkout :  'checkout' object has no attribute 'self'
+2024-08-03 16:05:45:Error in main checkout :  'checkout' object has no attribute 'self'
+2024-08-03 16:42:28:Error in main checkout :  name 'amount' is not defined
+2024-08-03 16:47:07:Error in main checkout :  1054 (42S22): Unknown column 'Transactionn_id' in 'where clause'
+2024-08-04 18:46:53:Write to File Error: name 'pickle' is not defined
+2024-08-04 19:02:22:Write to Login File Error: name 'pass_change_fp' is not defined
+2024-08-05 08:59:45:Error in rate products : 'rating' object has no attribute 'checkout_sub_obj'
+2024-08-05 09:05:20:Error in main checkout :  'checkout_sub' object has no attribute 'write_file_obj'
+2024-08-05 09:06:54:Error in process payment :  'checkout_sub' object has no attribute 'cart_obj'
+2024-08-05 09:42:08:Error in products details : 'NoneType' object has no attribute 'lower'
+2024-08-05 09:44:46:Error in products details : 'NoneType' object has no attribute 'lower'
+2024-08-05 09:45:22:Error in products details : 'product_management' object has no attribute 'purchasing'
+2024-08-05 09:49:15:Error in products details : 'NoneType' object has no attribute 'lower'
+2024-08-05 09:50:58:Error in products details : 'NoneType' object has no attribute 'lower'
+2024-08-05 09:55:25:Error in products details : 'product_management' object has no attribute 'purchasing'
+2024-08-05 09:57:14:Error in products details : invalid literal for int() with base 10: 'bacck'
+2024-08-05 09:57:14:Error in products details : 'NoneType' object has no attribute 'lower'
+2024-08-05 11:04:32:Error in display products : get_input() missing 1 required positional argument: 'prompt'
+2024-08-05 11:04:34:Error in display products : get_input() missing 1 required positional argument: 'prompt'
+2024-08-05 11:04:34:Error in products details : get_input() missing 1 required positional argument: 'prompt'
+2024-08-05 11:04:39:Error in display products : get_input() missing 1 required positional argument: 'prompt'
+2024-08-05 11:04:39:Error in products details : get_input() missing 1 required positional argument: 'prompt'
+2024-08-05 11:05:55:Error in display products : get_input() missing 1 required positional argument: 'prompt'
+2024-08-05 11:06:41:Error in display products : get_input() missing 1 required positional argument: 'prompt'
+2024-08-05 11:06:41:Error in products details : get_input() missing 1 required positional argument: 'prompt'
+2024-08-05 11:11:29:Error in display products : name 'user_email' is not defined
+2024-08-05 11:11:47:Error in display products : name 'user_email' is not defined
+2024-08-05 11:15:12:Error in display products : name 'user_email' is not defined
+2024-08-05 11:39:41:Error in add cart: 'go_back' object is not callable
+2024-08-05 11:53:18:Error in like products: name 'tabulate' is not defined
+2024-08-05 12:10:52:Error in online pay :  checkout_sub.online_pay() takes 3 positional arguments but 4 were given
+2024-08-05 12:25:29:Error in rate products : 'NoneType' object has no attribute 'split'
+2024-08-05 12:30:05:Error in rate products : 'NoneType' object has no attribute 'split'
+2024-08-05 12:30:05:Error in review category :  'NoneType' object has no attribute 'lower'
+2024-08-05 12:30:05:Error in rate products : 'in <string>' requires string as left operand, not NoneType
+2024-08-07 11:24:50:Error in products details : name 'prod_id_no' is not defined
+2024-08-07 11:26:09:Error in products details : checkout_sub.online_pay() takes 3 positional arguments but 4 were given
+2024-08-07 11:30:49:Error in display checkout :  'validation' object has no attribute 'email'
+2024-08-07 11:38:04:Error in display checkout :  cannot access local variable 'count' where it is not associated with a value
+2024-08-07 11:39:23:Error in products details : invalid literal for int() with base 10: 'yes'
+2024-08-07 11:39:44:Error in products details : cannot access local variable 'id_s' where it is not associated with a value
+2024-08-07 11:44:46:Error in products details : cannot access local variable 'id_s' where it is not associated with a value
+2024-08-07 11:49:37:Error in display checkout :  'validation' object has no attribute 'email'
+2024-08-07 11:51:55:Error in cost_cart :  'int' object is not iterable
+2024-08-07 11:51:55:Error in display checkout :  'NoneType' object is not iterable
+2024-08-07 15:39:10:Error in products details : invalid literal for int() with base 10: 'fvdc'
+2024-08-07 16:02:36:Error in cost_cart :  'int' object is not iterable
+2024-08-07 16:02:36:Error in display checkout :  'NoneType' object is not iterable
+2024-08-07 16:04:55:Error in add cart: invalid literal for int() with base 10: 'rcd'
+2024-08-07 16:24:58:Error in review category :  'NoneType' object has no attribute 'lower'
+2024-08-07 16:24:58:Error in rate products : 'in <string>' requires string as left operand, not NoneType
+2024-08-07 16:59:07:Error in rate products : 'in <string>' requires string as left operand, not NoneType
+2024-08-07 17:09:41:Error in rate products : 'in <string>' requires string as left operand, not NoneType
+2024-08-07 20:24:38:Error in dict tuple login :  'NoneType' object has no attribute 'items'
+2024-08-07 20:27:29:Error in dict tuple login :  'NoneType' object has no attribute 'items'
+2024-08-07 20:29:07:Error in dict tuple login :  'NoneType' object has no attribute 'items'
+2024-08-07 20:33:44:Error in dict tuple login :  'NoneType' object has no attribute 'items'
+2024-08-07 20:35:08:Error in dict tuple login :  'NoneType' object has no attribute 'items'
